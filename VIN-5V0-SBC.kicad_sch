@@ -2453,6 +2453,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 76.2) (xy 114.3 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "476055a1-a498-4263-b67b-52bdd07e0090")
+	)
+	(wire
+		(pts
 			(xy 49.53 63.5) (xy 41.91 63.5)
 		)
 		(stroke
@@ -2530,6 +2540,16 @@
 			(type default)
 		)
 		(uuid "63200d84-1912-4a9f-af8e-9628106c5e4d")
+	)
+	(wire
+		(pts
+			(xy 96.52 72.39) (xy 114.3 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "639cb962-f5c3-4762-aef5-cdad03eda7b3")
 	)
 	(wire
 		(pts
@@ -3196,6 +3216,16 @@
 		)
 		(uuid "3585a65f-2b15-4a7a-9b1d-5ac68b197d4e")
 	)
+	(label "GND"
+		(at 96.52 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "39d010be-f44d-4743-85ac-a5b71f6a747a")
+	)
 	(label "USB_DP"
 		(at 139.7 88.9 0)
 		(effects
@@ -3347,6 +3377,17 @@
 			(justify left bottom)
 		)
 		(uuid "925fc5f6-a7f5-46cd-9d03-f8ee922456cc")
+	)
+	(label "V_{power}"
+		(at 96.52 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left bottom)
+		)
+		(uuid "9bb2e11e-92f9-473a-8624-5559cbce7290")
 	)
 	(label "DP"
 		(at 33.02 40.64 0)
@@ -3537,6 +3578,50 @@
 			(justify left bottom)
 		)
 		(uuid "ee5aa578-70d7-4f06-938d-6098139a6405")
+	)
+	(global_label "V_{power}"
+		(shape input)
+		(at 114.3 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6c470b25-6e71-4ba5-aad4-f7944cfe8bcd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 122.8273 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 114.3 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "abeb5643-8c4e-49fb-9d3a-ef28b1382f69")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 121.1557 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small")

@@ -6,6 +6,44 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 30.48 156.21)
+		(size 39.37 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "61ba284f-105d-4546-8722-74f9b4410c5d")
+		(property "Sheetname" "mechanic"
+			(at 30.48 155.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mechanic.kicad_sch"
+			(at 30.48 179.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZW1S"
+				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 74.93 92.71)
 		(size 39.37 22.86)
 		(fields_autoplaced yes)
