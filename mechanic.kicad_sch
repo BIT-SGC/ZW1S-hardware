@@ -293,7 +293,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "071c9139-0f05-4a13-a223-7b559f947ade")
-		(property "Reference" "H10"
+		(property "Reference" "H12"
 			(at 102.87 40.6399 0)
 			(effects
 				(font
@@ -311,7 +311,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 100.33 43.18 0)
 			(effects
 				(font
@@ -344,7 +344,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H10")
+					(reference "H12")
 					(unit 1)
 				)
 			)
@@ -360,7 +360,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1241a8b4-3de6-4595-9876-a40450860fed")
-		(property "Reference" "H15"
+		(property "Reference" "H18"
 			(at 135.89 48.2599 0)
 			(effects
 				(font
@@ -378,7 +378,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 133.35 50.8 0)
 			(effects
 				(font
@@ -411,7 +411,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H15")
+					(reference "H18")
 					(unit 1)
 				)
 			)
@@ -427,7 +427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34411648-19e3-48a4-a4ed-66b105d57973")
-		(property "Reference" "H16"
+		(property "Reference" "H19"
 			(at 135.89 55.8799 0)
 			(effects
 				(font
@@ -445,7 +445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 133.35 58.42 0)
 			(effects
 				(font
@@ -478,7 +478,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H16")
+					(reference "H19")
 					(unit 1)
 				)
 			)
@@ -494,7 +494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3df3fc46-4cd5-48ab-9b3c-a710929fcc20")
-		(property "Reference" "H9"
+		(property "Reference" "H11"
 			(at 102.87 33.0199 0)
 			(effects
 				(font
@@ -512,7 +512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 100.33 35.56 0)
 			(effects
 				(font
@@ -545,7 +545,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H9")
+					(reference "H11")
 					(unit 1)
 				)
 			)
@@ -579,7 +579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 34.29 35.56 0)
 			(effects
 				(font
@@ -628,7 +628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4dde6cfa-2bd8-46e1-be3c-1b46d46b261b")
-		(property "Reference" "H6"
+		(property "Reference" "H7"
 			(at 69.85 40.6399 0)
 			(effects
 				(font
@@ -646,7 +646,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 67.31 43.18 0)
 			(effects
 				(font
@@ -679,7 +679,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H6")
+					(reference "H7")
 					(unit 1)
 				)
 			)
@@ -713,7 +713,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 34.29 43.18 0)
 			(effects
 				(font
@@ -762,7 +762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "583eb76f-51a7-4bda-9f7c-fc592e7911dd")
-		(property "Reference" "H13"
+		(property "Reference" "H16"
 			(at 135.89 33.0199 0)
 			(effects
 				(font
@@ -780,7 +780,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 133.35 35.56 0)
 			(effects
 				(font
@@ -813,7 +813,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H13")
+					(reference "H16")
 					(unit 1)
 				)
 			)
@@ -829,7 +829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "583fedfa-d060-451a-b9c8-45c500e4e363")
-		(property "Reference" "H14"
+		(property "Reference" "H17"
 			(at 135.89 40.6399 0)
 			(effects
 				(font
@@ -847,7 +847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 133.35 43.18 0)
 			(effects
 				(font
@@ -880,7 +880,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H14")
+					(reference "H17")
 					(unit 1)
 				)
 			)
@@ -896,7 +896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ef1474c-6859-44d2-b9ba-86368192e1f0")
-		(property "Reference" "H17"
+		(property "Reference" "H5"
 			(at 36.83 69.8499 0)
 			(effects
 				(font
@@ -914,7 +914,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 34.29 72.39 0)
 			(effects
 				(font
@@ -947,7 +947,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H17")
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -963,7 +963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87f66d7b-f925-4810-9d88-f5da74f80f5b")
-		(property "Reference" "H11"
+		(property "Reference" "H13"
 			(at 102.87 48.2599 0)
 			(effects
 				(font
@@ -981,7 +981,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 100.33 50.8 0)
 			(effects
 				(font
@@ -1014,7 +1014,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H11")
+					(reference "H13")
 					(unit 1)
 				)
 			)
@@ -1030,7 +1030,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "886cc131-0712-4cbe-9455-f429c340963b")
-		(property "Reference" "H7"
+		(property "Reference" "H8"
 			(at 69.85 48.2599 0)
 			(effects
 				(font
@@ -1048,7 +1048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 67.31 50.8 0)
 			(effects
 				(font
@@ -1081,7 +1081,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H7")
+					(reference "H8")
 					(unit 1)
 				)
 			)
@@ -1115,7 +1115,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 133.35 72.39 0)
 			(effects
 				(font
@@ -1182,7 +1182,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 34.29 50.8 0)
 			(effects
 				(font
@@ -1231,7 +1231,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c56731de-8b31-49c2-b1b7-2d25c5568c3b")
-		(property "Reference" "H18"
+		(property "Reference" "H10"
 			(at 69.85 69.8499 0)
 			(effects
 				(font
@@ -1249,7 +1249,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 67.31 72.39 0)
 			(effects
 				(font
@@ -1282,7 +1282,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H18")
+					(reference "H10")
 					(unit 1)
 				)
 			)
@@ -1316,7 +1316,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 34.29 58.42 0)
 			(effects
 				(font
@@ -1365,7 +1365,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d78c5f34-2d45-4e8e-bf6d-922f3fdfedfb")
-		(property "Reference" "H5"
+		(property "Reference" "H6"
 			(at 69.85 33.0199 0)
 			(effects
 				(font
@@ -1383,7 +1383,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 67.31 35.56 0)
 			(effects
 				(font
@@ -1416,7 +1416,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H5")
+					(reference "H6")
 					(unit 1)
 				)
 			)
@@ -1432,7 +1432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9896f8a-0dc0-4a0f-a05d-6f372493970e")
-		(property "Reference" "H19"
+		(property "Reference" "H15"
 			(at 102.87 69.8499 0)
 			(effects
 				(font
@@ -1450,7 +1450,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 100.33 72.39 0)
 			(effects
 				(font
@@ -1483,7 +1483,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H19")
+					(reference "H15")
 					(unit 1)
 				)
 			)
@@ -1499,7 +1499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7e03a7d-d2c5-4191-9729-ef2a01e05687")
-		(property "Reference" "H8"
+		(property "Reference" "H9"
 			(at 69.85 55.8799 0)
 			(effects
 				(font
@@ -1517,7 +1517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 67.31 58.42 0)
 			(effects
 				(font
@@ -1550,7 +1550,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H8")
+					(reference "H9")
 					(unit 1)
 				)
 			)
@@ -1566,7 +1566,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffcbce13-88e9-4587-a5a5-d0b9f749c948")
-		(property "Reference" "H12"
+		(property "Reference" "H14"
 			(at 102.87 55.8799 0)
 			(effects
 				(font
@@ -1584,7 +1584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via"
 			(at 100.33 58.42 0)
 			(effects
 				(font
@@ -1617,7 +1617,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/61ba284f-105d-4546-8722-74f9b4410c5d"
-					(reference "H12")
+					(reference "H14")
 					(unit 1)
 				)
 			)

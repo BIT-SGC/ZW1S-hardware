@@ -2600,6 +2600,18 @@
 		)
 		(uuid "d6c2dffb-3fbb-4dab-9333-d895577bea7e")
 	)
+	(text "补雷达接口及标签！！！"
+		(exclude_from_sim no)
+		(at 49.53 32.004 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.3175)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "f23b7463-5513-461c-be14-58b900e0382f")
+	)
 	(label "CANL"
 		(at 228.6 49.53 180)
 		(effects
@@ -3378,7 +3390,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "02e75a55-8edd-48d5-ae2e-6048a130e9da")
-		(property "Reference" "J6"
+		(property "Reference" "J12"
 			(at 205.74 60.706 0)
 			(effects
 				(font
@@ -3394,7 +3406,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal"
 			(at 205.74 68.58 0)
 			(effects
 				(font
@@ -3436,7 +3448,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "J6")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -3518,7 +3530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "124042b3-3129-419a-b80f-3d64e55bfb42")
-		(property "Reference" "#PWR7"
+		(property "Reference" "#PWR13"
 			(at 50.8 73.66 0)
 			(effects
 				(font
@@ -3568,7 +3580,7 @@
 		(instances
 			(project ""
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "#PWR7")
+					(reference "#PWR13")
 					(unit 1)
 				)
 			)
@@ -3583,7 +3595,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3bf86a5d-0109-4985-8af4-7341b7011971")
-		(property "Reference" "J7"
+		(property "Reference" "J2"
 			(at 35.306 45.212 0)
 			(effects
 				(font
@@ -3599,7 +3611,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal"
 			(at 35.56 52.07 0)
 			(effects
 				(font
@@ -3635,7 +3647,7 @@
 		(instances
 			(project ""
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "J7")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -3651,7 +3663,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4039bdfb-afd3-4036-9220-2a35699e53f4")
-		(property "Reference" "J3"
+		(property "Reference" "J8"
 			(at 168.656 43.688 0)
 			(effects
 				(font
@@ -3714,7 +3726,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "J3")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -3730,7 +3742,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4aa76b86-2f4a-4716-a26e-b5095ff76c81")
-		(property "Reference" "J4"
+		(property "Reference" "J9"
 			(at 168.656 57.658 0)
 			(effects
 				(font
@@ -3793,7 +3805,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "J4")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -3808,7 +3820,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4de03c52-1c77-42da-be19-5eea8091773e")
-		(property "Reference" "R23"
+		(property "Reference" "R26"
 			(at 55.88 60.96 0)
 			(effects
 				(font
@@ -3826,7 +3838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 54.61 62.23 0)
 			(effects
 				(font
@@ -3862,7 +3874,7 @@
 		(instances
 			(project ""
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "R23")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -3878,7 +3890,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ed9af54-696d-4a69-a73f-454209fdc950")
-		(property "Reference" "J1"
+		(property "Reference" "J6"
 			(at 134.112 43.434 0)
 			(effects
 				(font
@@ -3941,7 +3953,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "J1")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -3972,7 +3984,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
 			(at 96.52 85.09 0)
 			(effects
 				(font
@@ -4039,7 +4051,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
 			(at 49.53 85.09 0)
 			(effects
 				(font
@@ -4091,7 +4103,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "513061ca-0853-4db4-aec7-960cb5eddcb7")
-		(property "Reference" "J11"
+		(property "Reference" "J10"
 			(at 171.45 84.836 0)
 			(effects
 				(font
@@ -4107,7 +4119,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal"
 			(at 171.45 92.71 0)
 			(effects
 				(font
@@ -4149,7 +4161,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "J11")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -4231,7 +4243,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "542d2cd7-8306-4445-90d8-5fdd1c62b177")
-		(property "Reference" "J5"
+		(property "Reference" "J11"
 			(at 205.74 44.196 0)
 			(effects
 				(font
@@ -4247,7 +4259,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal"
 			(at 205.74 52.07 0)
 			(effects
 				(font
@@ -4289,7 +4301,7 @@
 		(instances
 			(project ""
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "J5")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -4304,7 +4316,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c5c7eaa-57c7-4d63-94db-d831a1af327b")
-		(property "Reference" "R31"
+		(property "Reference" "R30"
 			(at 102.87 60.96 0)
 			(effects
 				(font
@@ -4322,7 +4334,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 101.6 62.23 0)
 			(effects
 				(font
@@ -4358,7 +4370,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "R31")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -4373,7 +4385,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6369c26c-f9ab-4103-97d1-a1026d4a3011")
-		(property "Reference" "R30"
+		(property "Reference" "R29"
 			(at 56.388 91.694 90)
 			(effects
 				(font
@@ -4389,7 +4401,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 58.42 93.98 0)
 			(effects
 				(font
@@ -4425,7 +4437,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "R30")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -4456,7 +4468,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 105.41 58.42 0)
 			(effects
 				(font
@@ -4507,7 +4519,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "708ce0b7-45b8-4716-9310-f64f53b09b4a")
-		(property "Reference" "R25"
+		(property "Reference" "R28"
 			(at 56.388 56.134 90)
 			(effects
 				(font
@@ -4523,7 +4535,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 58.42 58.42 0)
 			(effects
 				(font
@@ -4559,7 +4571,7 @@
 		(instances
 			(project ""
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "R25")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -4644,7 +4656,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "78a6577e-811e-49ff-92db-4f13e3c32671")
-		(property "Reference" "R33"
+		(property "Reference" "R31"
 			(at 102.87 96.52 0)
 			(effects
 				(font
@@ -4662,7 +4674,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 101.6 97.79 0)
 			(effects
 				(font
@@ -4698,7 +4710,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "R33")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -4877,7 +4889,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8fded327-4b45-40dd-8567-cd3275c18f18")
-		(property "Reference" "J9"
+		(property "Reference" "J4"
 			(at 82.296 45.212 0)
 			(effects
 				(font
@@ -4893,7 +4905,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal"
 			(at 82.55 52.07 0)
 			(effects
 				(font
@@ -4929,7 +4941,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "J9")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -4960,7 +4972,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
 			(at 96.52 49.53 0)
 			(effects
 				(font
@@ -5012,7 +5024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bda92188-ee03-4e28-8329-ca358be212a8")
-		(property "Reference" "#PWR9"
+		(property "Reference" "#PWR14"
 			(at 50.8 109.22 0)
 			(effects
 				(font
@@ -5062,7 +5074,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "#PWR9")
+					(reference "#PWR14")
 					(unit 1)
 				)
 			)
@@ -5159,7 +5171,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2ac4654-fd33-41d7-99e7-58a0e1e059b1")
-		(property "Reference" "R29"
+		(property "Reference" "R27"
 			(at 55.88 96.52 0)
 			(effects
 				(font
@@ -5177,7 +5189,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 54.61 97.79 0)
 			(effects
 				(font
@@ -5213,7 +5225,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "R29")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -5228,7 +5240,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d3b1c21a-26a4-470a-923d-f25ea7a6a76f")
-		(property "Reference" "R34"
+		(property "Reference" "R33"
 			(at 103.378 91.694 90)
 			(effects
 				(font
@@ -5244,7 +5256,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 105.41 93.98 0)
 			(effects
 				(font
@@ -5280,7 +5292,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "R34")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -5296,7 +5308,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d67d1c66-9d4b-4eb3-8254-47fe45cc7c43")
-		(property "Reference" "J12"
+		(property "Reference" "J7"
 			(at 137.16 84.836 0)
 			(effects
 				(font
@@ -5312,7 +5324,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal"
 			(at 137.16 92.71 0)
 			(effects
 				(font
@@ -5354,7 +5366,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "J12")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -5369,7 +5381,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da835960-eb0a-4e92-8160-6efb473ca61c")
-		(property "Reference" "J10"
+		(property "Reference" "J5"
 			(at 82.296 80.772 0)
 			(effects
 				(font
@@ -5385,7 +5397,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal"
 			(at 82.55 87.63 0)
 			(effects
 				(font
@@ -5421,7 +5433,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "J10")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -5452,7 +5464,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
 			(at 49.53 49.53 0)
 			(effects
 				(font
@@ -5503,7 +5515,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fa3d85d9-0aa5-4321-867f-e06cee10bdcd")
-		(property "Reference" "J8"
+		(property "Reference" "J3"
 			(at 35.306 80.772 0)
 			(effects
 				(font
@@ -5519,7 +5531,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal"
 			(at 35.56 87.63 0)
 			(effects
 				(font
@@ -5555,7 +5567,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/cfdc2bd0-e52f-4e45-9f57-35a106e1bb09"
-					(reference "J8")
+					(reference "J3")
 					(unit 1)
 				)
 			)

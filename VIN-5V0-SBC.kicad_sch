@@ -3632,7 +3632,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "07a894f5-b591-4940-b308-d7e4e546b858")
-		(property "Reference" "R5"
+		(property "Reference" "R22"
 			(at 43.18 65.786 0)
 			(effects
 				(font
@@ -3650,7 +3650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 41.91 67.31 0)
 			(effects
 				(font
@@ -3686,7 +3686,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "R5")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -3702,7 +3702,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08699611-d92b-4d74-ad0d-f9ce10cdcd81")
-		(property "Reference" "U1"
+		(property "Reference" "U12"
 			(at 60.96 25.4 0)
 			(effects
 				(font
@@ -3823,7 +3823,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "U1")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -3838,7 +3838,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1f6f5a1e-0b5a-4e79-971a-4aa205b474b0")
-		(property "Reference" "C9"
+		(property "Reference" "C59"
 			(at 153.416 99.06 90)
 			(effects
 				(font
@@ -3854,7 +3854,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 156.21 100.33 0)
 			(effects
 				(font
@@ -3890,7 +3890,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C9")
+					(reference "C59")
 					(unit 1)
 				)
 			)
@@ -3905,7 +3905,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "25a7dc4f-d41f-4a31-94de-f0f98934c52e")
-		(property "Reference" "C10"
+		(property "Reference" "C60"
 			(at 153.416 105.41 90)
 			(effects
 				(font
@@ -3921,7 +3921,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 156.21 106.68 0)
 			(effects
 				(font
@@ -3957,7 +3957,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C10")
+					(reference "C60")
 					(unit 1)
 				)
 			)
@@ -4103,7 +4103,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "41d617d9-f76b-4033-a917-9a327e372449")
-		(property "Reference" "D9"
+		(property "Reference" "D8"
 			(at 99.06 102.87 0)
 			(effects
 				(font
@@ -4119,7 +4119,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 102.87 105.41 90)
 			(effects
 				(font
@@ -4155,7 +4155,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "D9")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -4171,7 +4171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6980f9bd-873b-42f6-89c1-ddc36ac7b2a4")
-		(property "Reference" "C58"
+		(property "Reference" "C57"
 			(at 80.01 105.4162 0)
 			(effects
 				(font
@@ -4189,7 +4189,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 77.47 106.68 0)
 			(effects
 				(font
@@ -4225,7 +4225,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C58")
+					(reference "C57")
 					(unit 1)
 				)
 			)
@@ -4240,7 +4240,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "69cbc74a-6809-499f-bc88-bc9a7172bee0")
-		(property "Reference" "R8"
+		(property "Reference" "R25"
 			(at 114.046 102.87 90)
 			(effects
 				(font
@@ -4256,7 +4256,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 105.41 0)
 			(effects
 				(font
@@ -4292,7 +4292,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "R8")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -4307,7 +4307,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6f448447-1fe4-4906-b90b-ff8ab0364ebb")
-		(property "Reference" "D1"
+		(property "Reference" "D9"
 			(at 152.654 77.978 0)
 			(effects
 				(font
@@ -4359,7 +4359,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "D1")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -4374,7 +4374,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "72d0337c-893b-49fb-8426-4bec8c538018")
-		(property "Reference" "C54"
+		(property "Reference" "C58"
 			(at 99.06 48.768 90)
 			(effects
 				(font
@@ -4390,7 +4390,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 99.06 53.34 0)
 			(effects
 				(font
@@ -4426,7 +4426,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C54")
+					(reference "C58")
 					(unit 1)
 				)
 			)
@@ -4441,7 +4441,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7c72f93c-98df-479b-a233-af5fcb76670e")
-		(property "Reference" "R7"
+		(property "Reference" "R24"
 			(at 113.792 96.52 90)
 			(effects
 				(font
@@ -4457,7 +4457,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 99.06 0)
 			(effects
 				(font
@@ -4493,7 +4493,7 @@
 		(instances
 			(project ""
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "R7")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -4509,7 +4509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89fa1b76-9562-4ce1-902e-cfd2b33cd0f1")
-		(property "Reference" "R6"
+		(property "Reference" "R23"
 			(at 99.06 40.64 90)
 			(effects
 				(font
@@ -4525,7 +4525,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 99.06 45.72 0)
 			(effects
 				(font
@@ -4561,7 +4561,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "R6")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -4577,7 +4577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d092594-26de-44dd-851c-869de2b7c6bd")
-		(property "Reference" "C8"
+		(property "Reference" "C49"
 			(at 30.48 92.1638 0)
 			(effects
 				(font
@@ -4595,7 +4595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x7.7"
 			(at 27.94 93.98 0)
 			(effects
 				(font
@@ -4631,7 +4631,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C8")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -4647,7 +4647,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93c3a9f7-658f-4407-a3b9-5d83a205a4b5")
-		(property "Reference" "C12"
+		(property "Reference" "C53"
 			(at 63.5 92.7162 0)
 			(effects
 				(font
@@ -4665,7 +4665,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 60.96 93.98 0)
 			(effects
 				(font
@@ -4701,7 +4701,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C12")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -4717,7 +4717,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3f90517-1c16-4bd3-bbf3-ceefab25c794")
-		(property "Reference" "C56"
+		(property "Reference" "C50"
 			(at 30.48 104.8638 0)
 			(effects
 				(font
@@ -4735,7 +4735,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x7.7"
 			(at 27.94 106.68 0)
 			(effects
 				(font
@@ -4771,7 +4771,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C56")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -4786,7 +4786,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a91f8da0-03f0-4eb4-aae9-4912071b9709")
-		(property "Reference" "#PWR5"
+		(property "Reference" "#PWR12"
 			(at 60.96 80.01 0)
 			(effects
 				(font
@@ -4836,7 +4836,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "#PWR5")
+					(reference "#PWR12")
 					(unit 1)
 				)
 			)
@@ -4851,7 +4851,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b4f5bdde-c4a2-4313-9da9-93fd13eb2535")
-		(property "Reference" "C13"
+		(property "Reference" "C55"
 			(at 76.2 37.338 0)
 			(effects
 				(font
@@ -4869,7 +4869,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 76.2 43.18 0)
 			(effects
 				(font
@@ -4905,7 +4905,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C13")
+					(reference "C55")
 					(unit 1)
 				)
 			)
@@ -4921,7 +4921,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9d74696-0041-4645-a424-09acba219d3b")
-		(property "Reference" "C59"
+		(property "Reference" "C52"
 			(at 46.99 104.8638 0)
 			(effects
 				(font
@@ -4939,7 +4939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x7.7"
 			(at 44.45 106.68 0)
 			(effects
 				(font
@@ -4975,7 +4975,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C59")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -4990,7 +4990,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "be4baf8d-cc70-486e-8037-03bbe4a911b9")
-		(property "Reference" "D8"
+		(property "Reference" "D7"
 			(at 98.806 96.52 0)
 			(effects
 				(font
@@ -5006,7 +5006,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 102.87 99.06 90)
 			(effects
 				(font
@@ -5042,7 +5042,7 @@
 		(instances
 			(project ""
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "D8")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -5058,7 +5058,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c88e144e-cc20-4b92-9ec2-7aadf9e597b4")
-		(property "Reference" "C55"
+		(property "Reference" "C56"
 			(at 80.01 92.7162 0)
 			(effects
 				(font
@@ -5076,7 +5076,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 77.47 93.98 0)
 			(effects
 				(font
@@ -5112,7 +5112,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C55")
+					(reference "C56")
 					(unit 1)
 				)
 			)
@@ -5128,7 +5128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cafad1c6-ce25-4a6a-b23a-ea70f9735587")
-		(property "Reference" "C11"
+		(property "Reference" "C51"
 			(at 46.99 92.7162 0)
 			(effects
 				(font
@@ -5146,7 +5146,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.4"
 			(at 44.45 93.98 0)
 			(effects
 				(font
@@ -5182,7 +5182,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C11")
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -5197,7 +5197,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e17134e7-f8b0-4e99-a9d3-10bd58356fca")
-		(property "Reference" "D7"
+		(property "Reference" "D10"
 			(at 152.654 85.852 0)
 			(effects
 				(font
@@ -5249,7 +5249,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "D7")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -5264,7 +5264,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eb24d37f-439b-46c7-b9fb-75b08c37d5d9")
-		(property "Reference" "L1"
+		(property "Reference" "L4"
 			(at 85.09 41.91 90)
 			(effects
 				(font
@@ -5280,7 +5280,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_APV_APH1040"
 			(at 85.09 45.72 0)
 			(effects
 				(font
@@ -5316,7 +5316,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "L1")
+					(reference "L4")
 					(unit 1)
 				)
 			)
@@ -5332,7 +5332,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa2fd172-afab-4db8-99bc-07cd8880588d")
-		(property "Reference" "C57"
+		(property "Reference" "C54"
 			(at 63.5 105.4162 0)
 			(effects
 				(font
@@ -5350,7 +5350,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_5x5.4"
 			(at 60.96 106.68 0)
 			(effects
 				(font
@@ -5386,7 +5386,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/9517e653-294f-4743-9b8d-25bbdad54970/c27468e6-6ebd-4289-8aac-6b17aa204025"
-					(reference "C57")
+					(reference "C54")
 					(unit 1)
 				)
 			)
