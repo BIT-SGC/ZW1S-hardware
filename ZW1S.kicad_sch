@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c658c753-a869-4eb9-a520-6b2e7fae7fd9")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 74.93 92.71)
+		(size 39.37 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "9517e653-294f-4743-9b8d-25bbdad54970")
+		(property "Sheetname" "power"
+			(at 74.93 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 74.93 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZW1S"
+				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 92.71)
+		(size 39.37 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "bed308e1-7b03-4f89-9efc-3e92ee91bd02")
+		(property "Sheetname" "mcu"
+			(at 30.48 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 30.48 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZW1S"
+				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 124.46)
+		(size 39.37 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "ce59eec0-7d41-4ec7-bf63-0f29922ef92c")
+		(property "Sheetname" "usb"
+			(at 30.48 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb.kicad_sch"
+			(at 30.48 147.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZW1S"
+				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 74.93 124.46)
+		(size 39.37 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "cfdc2bd0-e52f-4e45-9f57-35a106e1bb09")
+		(property "Sheetname" "plug"
+			(at 74.93 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "plug.kicad_sch"
+			(at 74.93 147.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZW1S"
+				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
