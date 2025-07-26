@@ -3687,7 +3687,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 151.13) (xy 123.19 151.13)
+			(xy 124.46 151.13) (xy 133.35 151.13)
 		)
 		(stroke
 			(width 0)
@@ -3967,7 +3967,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 154.94) (xy 110.49 154.94)
+			(xy 101.6 154.94) (xy 116.84 154.94)
 		)
 		(stroke
 			(width 0)
@@ -4017,7 +4017,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 151.13) (xy 110.49 151.13)
+			(xy 101.6 151.13) (xy 116.84 151.13)
 		)
 		(stroke
 			(width 0)
@@ -4297,6 +4297,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 62.23) (xy 69.85 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a293dbb-e8e2-4490-8fda-5f65c25edc35")
+	)
+	(wire
+		(pts
 			(xy 168.91 130.81) (xy 168.91 132.08)
 		)
 		(stroke
@@ -4434,6 +4444,16 @@
 			(type default)
 		)
 		(uuid "6e973cfb-a6e6-4ae3-a62c-3ab60e68efe7")
+	)
+	(wire
+		(pts
+			(xy 54.61 64.77) (xy 69.85 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71f2f346-7afc-4f90-8da2-858f2603a7d6")
 	)
 	(wire
 		(pts
@@ -4607,7 +4627,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 154.94) (xy 123.19 154.94)
+			(xy 124.46 154.94) (xy 133.35 154.94)
 		)
 		(stroke
 			(width 0)
@@ -4937,6 +4957,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 59.69) (xy 69.85 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5b2c2a0-8f55-45ce-9375-b19b83066842")
+	)
+	(wire
+		(pts
 			(xy 198.12 152.4) (xy 213.36 152.4)
 		)
 		(stroke
@@ -4964,6 +4994,16 @@
 			(type default)
 		)
 		(uuid "b76b1212-ce85-479a-82d8-a1da4aa595e0")
+	)
+	(wire
+		(pts
+			(xy 54.61 57.15) (xy 69.85 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7b05650-6e7d-4c68-aef3-5eeaeee8179d")
 	)
 	(wire
 		(pts
@@ -5858,16 +5898,6 @@
 		)
 		(uuid "08fa1d88-6a70-422f-a4e3-6ffb31d22bb9")
 	)
-	(label "USB_DP"
-		(at 101.6 154.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0b89ad21-2587-44c5-b6f9-46aafe11025f")
-	)
 	(label "AVDD33"
 		(at 22.86 163.83 0)
 		(effects
@@ -6218,6 +6248,16 @@
 		)
 		(uuid "59be00d4-e21d-489f-9986-d6ed87bc6ff7")
 	)
+	(label "USB_HUB_DP"
+		(at 101.6 154.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5a4bcdd6-c4f9-479b-b7ce-c70b3175fd60")
+	)
 	(label "GND"
 		(at 72.39 133.35 0)
 		(effects
@@ -6479,7 +6519,7 @@
 		(uuid "91a0e36b-ae9c-45bc-aa4b-882a9a769fad")
 	)
 	(label "GND"
-		(at 123.19 154.94 180)
+		(at 133.35 154.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6558,6 +6598,16 @@
 		)
 		(uuid "9ec1a261-3f4d-47e7-b38e-91ce81fd23c2")
 	)
+	(label "MID360_TXP"
+		(at 69.85 64.77 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9ee2a6a7-c259-479d-938b-4e3f08bd545c")
+	)
 	(label "USB_2_DP"
 		(at 167.64 46.99 0)
 		(effects
@@ -6567,6 +6617,16 @@
 			(justify left bottom)
 		)
 		(uuid "9f1e3a7a-f158-4408-b7f4-5d3706812755")
+	)
+	(label "MID360_TXN"
+		(at 69.85 62.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9fb5c162-a91e-4feb-aa72-2219c6a545d4")
 	)
 	(label "VBUS_IN"
 		(at 101.6 128.27 0)
@@ -6628,6 +6688,16 @@
 		)
 		(uuid "ac72879b-1b11-4fca-be6d-e35a7f884a75")
 	)
+	(label "MID360_RXP"
+		(at 69.85 59.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "af3ab60f-9bcb-477a-b56a-1988c4f03169")
+	)
 	(label "DVDDK"
 		(at 72.39 125.73 0)
 		(effects
@@ -6657,6 +6727,16 @@
 			(justify left bottom)
 		)
 		(uuid "b313d29d-6f38-4ed2-91ec-0af7090937cc")
+	)
+	(label "MID360_RXN"
+		(at 69.85 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b3afe112-297a-4395-87be-d23e2191c67b")
 	)
 	(label "USB_3_DP"
 		(at 158.75 120.65 0)
@@ -6768,18 +6848,8 @@
 		)
 		(uuid "c8f521ea-e9bf-41c1-bbc4-935c7b563d4f")
 	)
-	(label "USB_DN"
-		(at 101.6 151.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cae841ed-f20c-4c74-8a74-6c06e314ce10")
-	)
 	(label "GND"
-		(at 123.19 151.13 180)
+		(at 133.35 151.13 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6938,6 +7008,16 @@
 		)
 		(uuid "eb416351-4f71-4fc4-ba70-70ad1f5c4d53")
 	)
+	(label "USB_HUB_DN"
+		(at 101.6 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0c4af08-3c8f-4d55-b35b-a25538752ec8")
+	)
 	(label "GND"
 		(at 39.37 151.13 180)
 		(effects
@@ -7066,6 +7146,72 @@
 			)
 		)
 	)
+	(global_label "MID360_RXN"
+		(shape input)
+		(at 54.61 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9c73e708-0e10-4964-b861-6889f619a002")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 39.8925 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MID360_TXN"
+		(shape input)
+		(at 54.61 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c092d883-4f08-4dad-ba61-859abe0fe0cf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 40.1949 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MID360_TXP"
+		(shape input)
+		(at 54.61 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d9d77166-3c45-47d5-b046-7909e9c4fdd8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 40.2554 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CTRL_TX"
 		(shape input)
 		(at 105.41 41.91 180)
@@ -7123,6 +7269,28 @@
 		(uuid "ec406c76-61ec-4ff7-9329-2a4a889fb4bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 97.2843 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MID360_RXP"
+		(shape input)
+		(at 54.61 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f0da55a4-bbe0-4d37-97f2-e7fef6c09614")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 39.953 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7468,7 +7636,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1922a0dc-cf59-48ad-93e1-33902ea4cbe2")
-		(property "Reference" "C42"
+		(property "Reference" "C41"
 			(at 135.89 173.9962 0)
 			(effects
 				(font
@@ -7522,7 +7690,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C42")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -7538,7 +7706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1bf00da2-ea3d-4c5f-a645-2d5114bec284")
-		(property "Reference" "C48"
+		(property "Reference" "C47"
 			(at 205.74 133.3562 0)
 			(effects
 				(font
@@ -7592,7 +7760,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C48")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -7608,7 +7776,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20538cd5-bb5b-4b40-8ef3-e2c7bef2360f")
-		(property "Reference" "C39"
+		(property "Reference" "C38"
 			(at 116.84 74.9362 0)
 			(effects
 				(font
@@ -7662,7 +7830,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C39")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -7678,7 +7846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20dea2dc-2ceb-45aa-9238-b2cde764eb0e")
-		(property "Reference" "C45"
+		(property "Reference" "C44"
 			(at 180.34 53.3462 0)
 			(effects
 				(font
@@ -7732,7 +7900,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C45")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -7886,7 +8054,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34cff6c8-9ee3-442f-9442-f6224a2f4127")
-		(property "Reference" "C34"
+		(property "Reference" "C33"
 			(at 66.04 128.2762 0)
 			(effects
 				(font
@@ -7940,7 +8108,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C34")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -7956,7 +8124,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b4cbb03-c80d-4b05-9d73-117fcfef0305")
-		(property "Reference" "C36"
+		(property "Reference" "C35"
 			(at 81.28 55.8862 0)
 			(effects
 				(font
@@ -8010,7 +8178,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C36")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -8092,7 +8260,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4881c81c-b46c-474a-a922-ef4f4fb9f779")
-		(property "Reference" "C38"
+		(property "Reference" "C37"
 			(at 109.22 173.9962 0)
 			(effects
 				(font
@@ -8146,7 +8314,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C38")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -8234,7 +8402,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4c708b0b-7e74-45f1-8464-62b37feb7498")
-		(property "Reference" "C33"
+		(property "Reference" "C32"
 			(at 41.148 128.27 0)
 			(effects
 				(font
@@ -8288,7 +8456,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C33")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -8304,7 +8472,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5620233d-0595-4428-8e00-504cdd9a6df7")
-		(property "Reference" "C47"
+		(property "Reference" "C46"
 			(at 201.93 74.9362 0)
 			(effects
 				(font
@@ -8358,7 +8526,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C47")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -8374,7 +8542,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59543b21-9f9b-4801-b203-42aec5599d1a")
-		(property "Reference" "C44"
+		(property "Reference" "C43"
 			(at 179.07 74.9362 0)
 			(effects
 				(font
@@ -8428,7 +8596,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C44")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -8444,7 +8612,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "597cd778-a6bd-4dbc-828b-963f6436728d")
-		(property "Reference" "C43"
+		(property "Reference" "C42"
 			(at 171.45 133.3562 0)
 			(effects
 				(font
@@ -8498,7 +8666,7 @@
 		(instances
 			(project ""
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C43")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -8636,7 +8804,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6351be39-557f-4deb-821e-54a79cf95952")
-		(property "Reference" "C40"
+		(property "Reference" "C39"
 			(at 118.11 53.3462 0)
 			(effects
 				(font
@@ -8690,7 +8858,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C40")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -8959,7 +9127,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ef73355-e7a2-48b0-9296-db57b9783b03")
-		(property "Reference" "C31"
+		(property "Reference" "C30"
 			(at 33.782 52.07 0)
 			(effects
 				(font
@@ -9013,7 +9181,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C31")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -9029,7 +9197,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a366c12e-3606-4c53-8f18-4b4d57dcedc6")
-		(property "Reference" "C32"
+		(property "Reference" "C31"
 			(at 36.83 180.3462 0)
 			(effects
 				(font
@@ -9083,7 +9251,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C32")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -9372,7 +9540,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c11c588c-5ed1-4f71-b396-f76e2e2c2c65")
-		(property "Reference" "C35"
+		(property "Reference" "C34"
 			(at 69.85 180.3462 0)
 			(effects
 				(font
@@ -9426,7 +9594,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C35")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -9712,7 +9880,7 @@
 	)
 	(symbol
 		(lib_id "Diode:ESD5Zxx")
-		(at 114.3 154.94 0)
+		(at 120.65 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9721,7 +9889,7 @@
 		(fields_autoplaced yes)
 		(uuid "c6faa73b-0a99-4173-8c41-b1078b881c07")
 		(property "Reference" "D5"
-			(at 114.3 148.59 0)
+			(at 120.65 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9729,7 +9897,7 @@
 			)
 		)
 		(property "Value" "ESD5Vxx"
-			(at 114.3 151.13 0)
+			(at 120.65 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9737,7 +9905,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 114.3 159.385 0)
+			(at 120.65 159.385 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9746,7 +9914,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
-			(at 114.3 154.94 0)
+			(at 120.65 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9755,7 +9923,7 @@
 			)
 		)
 		(property "Description" "ESD Protection Diode, SOD-523"
-			(at 114.3 154.94 0)
+			(at 120.65 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9906,7 +10074,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d0fef81d-770a-4bfb-85b4-0f3142fcb21d")
-		(property "Reference" "C29"
+		(property "Reference" "C28"
 			(at 26.162 52.07 0)
 			(effects
 				(font
@@ -9960,7 +10128,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C29")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -10043,7 +10211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dac364e1-ac2b-4eae-a729-79ff4abb7464")
-		(property "Reference" "C46"
+		(property "Reference" "C45"
 			(at 186.69 133.3562 0)
 			(effects
 				(font
@@ -10097,7 +10265,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C46")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -10246,7 +10414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5aa0a29-012a-4038-bc78-5af1ca28b473")
-		(property "Reference" "C41"
+		(property "Reference" "C40"
 			(at 139.7 74.9362 0)
 			(effects
 				(font
@@ -10300,7 +10468,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C41")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -10590,7 +10758,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f03191e1-bb8a-43e6-8641-8af01ea60ce5")
-		(property "Reference" "C30"
+		(property "Reference" "C29"
 			(at 30.988 128.27 0)
 			(effects
 				(font
@@ -10644,7 +10812,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C30")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -10660,7 +10828,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0d1771d-c88d-4dc7-b3be-bd39367b34f1")
-		(property "Reference" "C37"
+		(property "Reference" "C36"
 			(at 85.09 128.2762 0)
 			(effects
 				(font
@@ -10714,7 +10882,7 @@
 		(instances
 			(project "ZW1S"
 				(path "/c658c753-a869-4eb9-a520-6b2e7fae7fd9/ce59eec0-7d41-4ec7-bf63-0f29922ef92c"
-					(reference "C37")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -10722,7 +10890,7 @@
 	)
 	(symbol
 		(lib_id "Diode:ESD5Zxx")
-		(at 114.3 151.13 0)
+		(at 120.65 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10731,7 +10899,7 @@
 		(fields_autoplaced yes)
 		(uuid "f7c81b1a-1f01-450a-aaf3-28736b41e0ba")
 		(property "Reference" "D4"
-			(at 114.3 144.78 0)
+			(at 120.65 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10739,7 +10907,7 @@
 			)
 		)
 		(property "Value" "ESD5Vxx"
-			(at 114.3 147.32 0)
+			(at 120.65 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10747,7 +10915,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 114.3 155.575 0)
+			(at 120.65 155.575 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10756,7 +10924,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
-			(at 114.3 151.13 0)
+			(at 120.65 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10765,7 +10933,7 @@
 			)
 		)
 		(property "Description" "ESD Protection Diode, SOD-523"
-			(at 114.3 151.13 0)
+			(at 120.65 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
