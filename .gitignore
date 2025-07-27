@@ -46,3 +46,5 @@ out/
 /#auto_saved_files#
 
 *.lck
+
+GERBER_*/*
