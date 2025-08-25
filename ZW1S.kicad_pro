@@ -485,7 +485,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "GERBER_ZW1S/",
       "pos_files": "",
       "specctra_dsn": "",
